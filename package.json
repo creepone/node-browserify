@@ -34,7 +34,7 @@
     "inherits": "~2.0.1",
     "JSONStream": "~0.7.1",
     "umd": "~2.0.0",
-    "parents": "~0.0.1",
+    "parents": "~0.0.2",
     "deep-equal": "~0.1.0",
     "constants-browserify": "~0.0.1",
     "os-browserify": "~0.1.1",
